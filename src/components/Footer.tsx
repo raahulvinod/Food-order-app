@@ -6,7 +6,7 @@ const Footer = () => {
       <Link href="/" className="font-bold text-xl">
         Caffino
       </Link>
-      <p> ALL RIGHTS RESERVED</p>
+      <p> &copy; ALL RIGHTS RESERVED</p>
     </div>
   );
 };
