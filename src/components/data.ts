@@ -382,7 +382,7 @@ export const menu: Menu = [
     id: 3,
     slug: 'pizzas',
     title: 'Cheesy Pizzas',
-    desc: 'Pizza Paradise: Irresistible slices, mouthwatering toppings, and cheesy perfection.',
+    desc: 'Pizza Paradise: Irresistible slices, mouthwatering toppings.',
     img: '/temporary/m3.png',
     color: 'white',
   },
