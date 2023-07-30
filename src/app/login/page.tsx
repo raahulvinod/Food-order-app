@@ -20,7 +20,7 @@ const LoginPage = () => {
           <button className="flex gap-4 p-4 ring-1 ring-orange-100 rounded-md">
             <Image
               src="/google.png"
-              alt=""
+              alt="google"
               width={20}
               height={20}
               className="object-contain"
@@ -30,7 +30,7 @@ const LoginPage = () => {
           <button className="flex gap-4 p-4 ring-1 ring-blue-100 rounded-md">
             <Image
               src="/facebook.png"
-              alt=""
+              alt="facebook"
               width={20}
               height={20}
               className="object-contain"
